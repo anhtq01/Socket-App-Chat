@@ -1,6 +1,6 @@
 # Socket-App-Chat
 
-This project is a web application chat built using Python and Socket programming. It allows users to communicate with each other in real-time through a web interface. The application utilizes the Socket library in Python to establish a connection between the server and clients, enabling seamless communication.
+This project is a web application chat built using the Python language, Flask framework and Socket programming. It allows users to communicate with each other in real-time through a web interface. The application utilizes the Socket library in Python to establish a connection between the server and clients, enabling seamless communication.
 
 Features
 - Real-time communication: Users can send and receive messages in real-time without the need to refresh the page.
